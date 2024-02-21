@@ -1,4 +1,0 @@
-id - 
-853443822847-jrppk2gg2j14htccu8ej8v86n4i2sfsl.apps.googleusercontent.com
-
-secret - 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
